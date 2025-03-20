@@ -1,8 +1,8 @@
-<h1 align="center">🚀 Welcome to My GitHub Profile! 🚀</h1>
+<h1 align="center">👋 Hey there! I'm Vishnu Menon – Crafting Code, One Line at a Time!"</h1>
 
-<!--<p align="center">-->
-<!--  <img src="https://svgshare.com/i/11kJ.svg" width="400">-->
-<!--</p>-->
+<p align="center">-->
+  <img src="https://raw.githubusercontent.com/MenonVishnu/MenonVishnu/dev/Assets/photo.svg" width="400">
+ </p>
 
 ---
 
