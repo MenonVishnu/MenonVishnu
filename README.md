@@ -1,19 +1,20 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile! 🚀</h1>
 
-<p align="center">
-  <img src="https://svgshare.com/i/11kJ.svg" width="400">
-</p>
+<!--<p align="center">-->
+<!--  <img src="https://svgshare.com/i/11kJ.svg" width="400">-->
+<!--</p>-->
 
 ---
 
 <h2 align="center">💻 About Me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Developer-%F0%9F%9A%80-blue" alt="Software Developer">
-  <img src="https://img.shields.io/badge/React%20JS-%2300D8FF.svg?style=flat-square&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Software%20Developer-white" alt="Software Developer">
+  <img src="https://img.shields.io/badge/React%20JS-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white">
    <img src="https://img.shields.io/badge/express.js-lightgrey?style=flat-square&logo=express&logoColor=white">
+   <img src="https://img.shields.io/badge/Backend%20Developer-white" alt="Beckend Developer">
 </p>
 
 <ul>
