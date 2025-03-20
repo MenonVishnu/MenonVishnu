@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">🚀 Welcome to My GitHub Profile! 🚀</h1>
 
-<!--
-**MenonVishnu/MenonVishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://svgshare.com/i/11kJ.svg" width="400">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">💻 About Me</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Developer-%F0%9F%9A%80-blue" alt="Software Developer">
+  <img src="https://img.shields.io/badge/React%20JS-%2300D8FF.svg?style=flat-square&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+   <img src="https://img.shields.io/badge/express.js-lightgrey?style=flat-square&logo=express&logoColor=white">
+</p>
+
+<ul>
+  <li>💡 Passionate about solving logic-based problems.</li>
+  <li>🌱 Currently learning new technologies and improving coding skills.</li>
+  <li>🚀 Looking for new opportunities to grow as a developer.</li>
+</ul>
+
+---
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,react,js,html,css,mongodb,git,github" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MenonVishnu&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MenonVishnu&theme=dark" alt="GitHub Streak">
+</p>
+
+---
+
+<h2 align="center">🌍 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/menonvishnu01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:menonvishnu26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
