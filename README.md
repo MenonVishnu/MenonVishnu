@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm Vishnu Menon – Crafting Code, One Line at a Time!"</h1>
 
 <p align="center">-->
-  <img src="https://raw.githubusercontent.com/MenonVishnu/MenonVishnu/dev/Assets/photo.svg" width="400">
+  <img src="https://raw.githubusercontent.com/MenonVishnu/MenonVishnu/dev/Assets/Photo.svg" width="400">
  </p>
 
 ---
