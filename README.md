@@ -26,7 +26,6 @@
 ---
 
 <h2 align="center">🧰 &nbsp;My toolbox</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,nodejs,express,react,vscode,js,html,css,mongodb,git,github,redis,docker" />
 </p>
