@@ -36,13 +36,13 @@
 <h2 align="center">🛠️ &nbsp;Projects with My Contributions</h2>
 <span align="center">
     <a>
-    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshsanil&repo=CUB&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)" alt="GitHub Stats">
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshsanil&repo=CUB&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)" alt="GitHub Stats">
     </a>
     <a>
-    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshsanil&repo=SIH_SS604_demo&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)" alt="GitHub Stats">
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshsanil&repo=SIH_SS604_demo&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)" alt="GitHub Stats">
     </a>
     <a>
-    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshsanil&repo=NFT-Marketplace&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)" alt="GitHub Stats">
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshsanil&repo=NFT-Marketplace&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)" alt="GitHub Stats">
     </a>
 </span>
 
