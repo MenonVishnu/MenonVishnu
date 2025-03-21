@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm Vishnu Menon – Crafting Code, One Line at a Time!"</h1>
+<h1 align="center">👋 Hey there! I'm Vishnu Menon</h1>
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/MenonVishnu/MenonVishnu/dev/Assets/Photo.svg" width="400">
@@ -25,10 +25,10 @@
 
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center">🧰 &nbsp;My toolbox</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,react,js,html,css,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,react,js,html,css,mongodb,git,github,redis,docker" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MenonVishnu&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MenonVishnu&show_icons=true&theme=great-gatsby" alt="GitHub Stats">
 </p>
 
 <p align="center">
