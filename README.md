@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">💻 About Me</h2>
+<h2 align="center">✨ A Peek Into My World</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Developer-white" alt="Software Developer">
@@ -19,7 +19,7 @@
 
 <ul>
   <li>💡 Passionate about solving logic-based problems.</li>
-  <li>🌱 Currently learning new technologies and improving coding skills.</li>
+  <li>🌱 Currently learning new technologies and implementing them.</li>
   <li>🚀 Looking for new opportunities to grow as a developer.</li>
 </ul>
 
@@ -28,24 +28,41 @@
 <h2 align="center">🧰 &nbsp;My toolbox</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,react,js,html,css,mongodb,git,github,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,react,vscode,js,html,css,mongodb,git,github,redis,docker" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🛠️ &nbsp;Projects with My Contributions</h2>
+<span align="center">
+    <a>
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshsanil&repo=CUB&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)" alt="GitHub Stats">
+    </a>
+    <a>
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshsanil&repo=SIH_SS604_demo&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)" alt="GitHub Stats">
+    </a>
+    <a>
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshsanil&repo=NFT-Marketplace&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)" alt="GitHub Stats">
+    </a>
+</span>
+
+---
+
+<h2 align="center">💡 GitHub Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MenonVishnu&show_icons=true&theme=great-gatsby" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MenonVishnu&show_icons=true&theme=great-gatsby&hide=issues,contribs&show=prs_merged" alt="GitHub Stats">
 </p>
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MenonVishnu&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook&theme=dark" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MenonVishnu&theme=dark" alt="GitHub Streak">
 </p>
 
 ---
 
-<h2 align="center">🌍 Connect with Me</h2>
+<h2 align="center">💬 Let’s Connect!</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/menonvishnu01" target="_blank">
