@@ -49,13 +49,14 @@
 ---
 
 <h2 align="center">💡 GitHub Overview</h2>
-
+<p>
 <a>
-  <img widht="450" src="https://github-readme-stats.vercel.app/api?username=MenonVishnu&show_icons=true&theme=great-gatsby&hide=issues,contribs&show=prs_merged" alt="GitHub Stats">
+  <img widht="400" align="center" src="https://github-readme-stats.vercel.app/api?username=MenonVishnu&show_icons=true&theme=great-gatsby&hide=issues,contribs&show=prs_merged" alt="GitHub Stats">
 </a>
 <a>
-  <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MenonVishnu&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook&theme=dark" />
+  <img  width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MenonVishnu&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook&theme=dark" />
 </a>
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MenonVishnu&theme=dark" alt="GitHub Streak">
 </p>
