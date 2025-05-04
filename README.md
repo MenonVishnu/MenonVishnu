@@ -49,6 +49,7 @@
 <a>
   <img widht="400" height="178" align="center" src="https://github-readme-stats.vercel.app/api?username=MenonVishnu&show_icons=true&theme=great-gatsby&hide=issues,contribs&show=prs_merged" alt="GitHub Stats">
 </a>
+&nbsp; 
 <a>
   <img  width="300" height="178" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MenonVishnu&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook&theme=dark" />
 </a>
