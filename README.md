@@ -1,11 +1,5 @@
 <h1 align="center">👋 Hey there! I'm Vishnu Menon</h1>
 
-<p align="center">
- <img width="700" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863">
-</p>
-
----
-
 <h2 align="center">✨ A Peek Into My World</h2>
 
 <p align="center">
@@ -32,15 +26,17 @@
 
 ---
 
-
 <h2 align="center">🛠️ &nbsp;Projects with My Contributions</h2>
 <p align="center">
     <a>
     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshsanil&repo=CUB&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)" alt="GitHub Stats">
     </a>
+    &nbsp; &nbsp; 
     <a>
     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshsanil&repo=SIH_SS604_demo&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)" alt="GitHub Stats">
     </a>
+    <br>
+    <br>
     <a>
     <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dipeshsanil&repo=NFT-Marketplace&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)" alt="GitHub Stats">
     </a>
@@ -73,7 +69,6 @@
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
 
 <p align="center">
  <img width="800" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
